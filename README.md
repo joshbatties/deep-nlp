@@ -126,13 +126,6 @@ model.fit(x_train, y_train, epochs=10)
 - Layer normalization
 - Support for classification tasks
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## License
 
@@ -141,6 +134,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 Based on techniques from:
-- "Attention is All You Need" paper
+- "Attention is All You Need" paper (my absolute favourite paper ever XD)
 - TensorFlow tutorials and documentation
-- Various deep learning for NLP resources
+- Various other deep learning for NLP resources
