@@ -134,6 +134,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 Based on techniques from:
-- "Attention is All You Need" paper (my absolute favourite paper ever XD)
+- "Attention is All You Need" https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf (my absolute favourite paper ever XD)
 - TensorFlow tutorials and documentation
 - Various other deep learning for NLP resources
