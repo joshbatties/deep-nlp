@@ -13,22 +13,6 @@ This repository contains implementations of various Natural Language Processing 
   - Sentiment analysis
   - Date format conversion
 
-## Project Structure
-
-```
-deep-nlp/
-├── models/
-│   ├── rnn_text_gen.py      # Character RNN for text generation
-│   ├── seq2seq.py           # Encoder-Decoder with attention
-│   └── transformer.py       # Transformer architecture
-├── examples/
-│   ├── shakespeare_gen.py   # Shakespeare text generation
-│   ├── date_converter.py    # Date format conversion
-│   └── sentiment.py         # Sentiment analysis
-├── requirements.txt
-└── README.md
-```
-
 ## Installation
 
 1. Clone the repository:
